@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Un PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de mini-conferencia pero un poco más simplificado y desestructurado, incluyendo en general charlas y talleres introductorios.">
-    <meta name="author" content="Ariel Montenegro" >
+    <meta name="author" content="ramontenegro" >
 
     <title>PyDay Formosa</title>
 
@@ -62,6 +62,9 @@
                         <a href="#about">Lugar</a>
                     </li>
                     <li class="page-scroll">
+                        <a href="#contact">Quiero una Remera</a>
+                    </li>
+                    <li class="page-scroll">
                         <a href="#contact">Sponsors</a>
                     </li>
                 </ul>
@@ -111,7 +114,7 @@
   					<div class="col-sm-4 portfolio-item" align="center">
 	  					<h3 align="center">Argentina en Python: como destruir el sueño de todo programador en 2 minutos</h3>
 	  					<p align="center">Manuel Kaufmann</p>
-	  					<img src="img/manuel.jpeg" alt="" class="img-circle" width="200px">	  					
+	  					<img src="img/manuel.jpg" alt="" class="img-circle" width="200px">	  					
 	  					<p align="justify">En Abril de 2014 empecé un proyecto llamado "Argentina en Python"
 con la idea de recorrer el país dando charlas de programación
 utilizando el lenguaje Python y de esa forma, devolver de alguna
@@ -148,13 +151,20 @@ Python.</p>
                 <div class="col-lg-4 col-lg-offset-2">
                     <p>Centro Cultural Municipal</p>
                     <p>Pringles y Rivadavia</p>
-                    <p>Fecha: 14 Feb 2015</p>
+                    <p>Fecha: Sabado 14 Feb 2015</p>
                     <p>Horario: 08:30 hs. a 18:00 hs.</p>
                     <p>Formosa Capital</p>
                 </div>
                 
                 <div class="col-lg-4">
                     <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-58.170263171195984%2C-26.18095044362517%2C-58.164276480674744%2C-26.178095673360232&amp;layer=mapnik&amp;marker=-26.17952547429115%2C-58.167269825935364" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=-26.17953&amp;mlon=-58.16727#map=18/-26.17952/-58.16727">Ver mapa más grande</a></small>
+                </div>
+
+                <div class="col-lg-4">
+                    <p>Quiero una Remera</p>
+
+<a target=_blank href="https://www.cuentadigital.com/api.php?id=527509&codigo=nombre_cliente&precio=100&m0=&m1=&m2=&m3=&venc=&concepto=Remera PyDay Formosa 2015&moneda=ARS&site=">
+<img src="https://www.cuentadigital.com/carro/add_cart.gif" border="0"></a>
                 </div>
                 
                 <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -178,11 +188,12 @@ Python.</p>
             
             <div class="row">
             <p>Interesados enviar un mail a info@forsol.org.ar</p>
-            
+            <h3>Sponsors</h3>
                 <div class="col-sm-4 portfolio-item">
-						<h3>Sponsors</h3>
-						<img class="img-responsive" src="img/sponsors/eat.jpg" alt="" width="150px">
-						<img class="img-responsive" src="img/sponsors/42mate.png" alt="" width="150px">
+						<a href="http://eatnea.org" target="_blank"><img class="img-responsive" src="img/sponsors/eat.jpg" alt="" width="130px"></a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+						<a href="https://www.42mate.com/" target="_blank"><img class="img-responsive" src="img/sponsors/42mate.png" alt="" width="200px"></a>
                 </div>
                 <div class="col-sm-4 portfolio-item">						
 						<h3 align="center">Tu logo aqui ->   :)</h3>
@@ -190,10 +201,23 @@ Python.</p>
             </div>
             <div class="row" style="float: left;overflow: auto;">
 						<h3>Apoyan</h3>
-						<img style="float: right; margin: 22px 0px 15px 0px;" class="img-responsive" src="img/forsol.png" alt="" width="150">
-						<img style="float: right; margin: 0px 0px 15px 0px;" class="img-responsive" src="img/misol.jpeg" alt="" width="150">
-						<img style="float: right; margin: 0px 0px 15px 0px;" class="img-responsive" src="img/solar.png" alt="" width="100">
-						<img style="float: right; margin: 0px 0px 15px 0px;" class="img-responsive" src="img/argpy.png" alt="" width="83">
+                        <a href="http://ninja-ide.org/" target="_blank">
+                        <img style="float: right; margin: 15px 0px 15px 15px;" class="img-responsive" src="img/apoyan/ninja-ide.png" alt="" width="90"></a>
+
+						<a href="http://python.org.ar/" target="_blank">
+                        <img style="float: right; margin: 15px 0px 15px 15px;" class="img-responsive" src="img/apoyan/pyar.svg" alt="" width="170"></a>
+
+                        <a href="http://www.forsol.org.ar/" target="_blank">
+						<img style="float: right; margin: 22px 0px 15px 15px;" class="img-responsive" src="img/apoyan/forsol.png" alt="" width="150"></a>
+
+                        <a href="http://www.misol.org.ar/" target="_blank">
+						<img style="float: right; margin: 7px 0px 15px 15px;" class="img-responsive" src="img/apoyan/misol.jpg" alt="" width="140"></a>
+
+                        <a href="http://www.solar.org.ar/" target="_blank">
+						<img style="float: right; margin: 0px 0px 15px 15px;" class="img-responsive" src="img/apoyan/solar.png" alt="" width="100"></a>
+
+                        <a href="http://elblogdehumitos.com.ar/pages/argentina-en-python/" target="_blank">
+						<img style="float: right; margin: 0px 0px 15px 0px;" class="img-responsive" src="img/apoyan/argpy.png" alt="" width="83"></a>
             </div>
         </div>
     </section>
