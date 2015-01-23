@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="ramontenegro" >
+    <meta name="description" content="Un PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de mini-conferencia pero un poco más simplificado y desestructurado, incluyendo en general charlas y talleres introductorios.">
+    <meta name="author" content="Ariel Montenegro" >
 
     <title>PyDay Formosa</title>
 
@@ -80,7 +80,8 @@
                     <div class="intro-text">
                         <span class="name">PyDay Formosa</span>
                         <hr class="star-light">
-                        <span class="skills">Vení, Conocé y Divertite</span>
+                        <span class="skills">Vení, conoce y divertite!</span><br>
+                        <span class="skills">ENTRADA LIBRE Y GRATUITA</span>
                     </div>
                 </div>
             </div>
@@ -98,11 +99,29 @@
             </div>
             <div class="row">
             
-
-
-<br><br><br><br><br>
-<center><h2>Aún nada por aqui :'(</h2></center>
-<br><br><br><br><br><br><br><br><br>
+					<div class="col-sm-4 portfolio-item" align="center">
+	  					<h3 align="center">Una experiencia con Fabric</h3>
+	  					<p align="center">Agustin Casiva</p>
+	  					<img src="img/agustin.jpg" alt="" class="img-circle" width="200px">
+	  					<p align="justify">Desarrollador de Aplicaciones Web, trabajo principalmente en PHP pero me divierto 
+	  					jugando con JavaScript, CSS y otros lenguajes de scripting. Actualmente codeando con 
+	  					amigos en 42mate.</p>
+                </div>
+                
+  					<div class="col-sm-4 portfolio-item" align="center">
+	  					<h3 align="center">Argentina en Python: como destruir el sueño de todo programador en 2 minutos</h3>
+	  					<p align="center">Manuel Kaufmann</p>
+	  					<img src="img/manuel.jpeg" alt="" class="img-circle" width="200px">	  					
+	  					<p align="justify">En Abril de 2014 empecé un proyecto llamado "Argentina en Python"
+con la idea de recorrer el país dando charlas de programación
+utilizando el lenguaje Python y de esa forma, devolver de alguna
+manera el conocimiento que obtuve libremente de la comunidad de
+Python.</p>
+                </div>
+                
+               <div class="col-sm-4 portfolio-item" align="center">
+  					<h3 align="center">Tu charla aqui ->   :)</h3>
+                </div>
 
 
                 
@@ -129,12 +148,13 @@
                 <div class="col-lg-4 col-lg-offset-2">
                     <p>Centro Cultural Municipal</p>
                     <p>Pringles y Rivadavia</p>
+                    <p>Fecha: 14 Feb 2015</p>
                     <p>Horario: 08:30 hs. a 18:00 hs.</p>
                     <p>Formosa Capital</p>
                 </div>
                 
                 <div class="col-lg-4">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1ses-419!2sar!4v1421929909155!6m8!1m7!1sZGB9G6alCScBdBvG-OKnbw!2m2!1d-26.179652!2d-58.167616!3f94.38889106894746!4f-1.3674527596518402!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0"></iframe>
+                    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-58.170263171195984%2C-26.18095044362517%2C-58.164276480674744%2C-26.178095673360232&amp;layer=mapnik&amp;marker=-26.17952547429115%2C-58.167269825935364" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=-26.17953&amp;mlon=-58.16727#map=18/-26.17952/-58.16727">Ver mapa más grande</a></small>
                 </div>
                 
                 <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -157,24 +177,22 @@
             </div>
             
             <div class="row">
-				<p align="justify">El costo para participar es de $300, esto incluye el logo en el sitio y cualquier material que deseen llevar al evento, banners, folletos, banderas, promotoras... etc.
-					 La colaboración de los sponsors ayuda a cubrir gastos de las personas que vienen de algún reino muy... muy... lejano.				
-				</p>            
-            <p>Interesados enviar un mail a contacto@forsol.org.ar</p>
+            <p>Interesados enviar un mail a info@forsol.org.ar</p>
             
                 <div class="col-sm-4 portfolio-item">
 						<h3>Sponsors</h3>
-						<img class="img-responsive" src="img/eat.jpg" alt="">
+						<img class="img-responsive" src="img/eat.jpg" alt="" width="150px">
+						<h3 align="center">Tu logo aqui ->   :)</h3>
 						
                 </div>
             </div>
-            <div class="row">
-                <div class="col-sm-4 portfolio-item">
+            <div class="row" style="float: left;overflow: auto;">
 						<h3>Apoyan</h3>
-						<img class="img-responsive" src="img/forsol.png" alt="">
-                </div>
+						<img style="float: right; margin: 22px 0px 15px 0px;" class="img-responsive" src="img/forsol.png" alt="" width="150">
+						<img style="float: right; margin: 0px 0px 15px 0px;" class="img-responsive" src="img/misol.jpeg" alt="" width="150">
+						<img style="float: right; margin: 0px 0px 15px 0px;" class="img-responsive" src="img/solar.png" alt="" width="100">
+						<img style="float: right; margin: 0px 0px 15px 0px;" class="img-responsive" src="img/argpy.png" alt="" width="83">
             </div>
-
         </div>
     </section>
 
@@ -197,7 +215,7 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Acerca del Evento</h3>
-                        <p>El PyDay Formosa esta organizado por programadores y aficionados al lenguaje de promación Python</p>
+                        <p>El PyDay Formosa esta organizado por programadores y aficionados al lenguaje de programación Python</p>
                     </div>
                 </div>
             </div>
