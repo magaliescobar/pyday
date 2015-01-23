@@ -181,10 +181,12 @@ Python.</p>
             
                 <div class="col-sm-4 portfolio-item">
 						<h3>Sponsors</h3>
-						<img class="img-responsive" src="img/eat.jpg" alt="" width="150px">
-						<h3 align="center">Tu logo aqui ->   :)</h3>
-						
+						<img class="img-responsive" src="img/sponsors/eat.jpg" alt="" width="150px">
+						<img class="img-responsive" src="img/sponsors/42mate.png" alt="" width="150px">
                 </div>
+                <div class="col-sm-4 portfolio-item">						
+						<h3 align="center">Tu logo aqui ->   :)</h3>
+                </div>                
             </div>
             <div class="row" style="float: left;overflow: auto;">
 						<h3>Apoyan</h3>
