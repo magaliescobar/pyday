@@ -162,7 +162,7 @@ Python.</p>
                 </div>
 
                 <div class="col-lg-3" style="float:right">
-	                <a width="425" class="twitter-timeline"  href="https://twitter.com/hashtag/PyDayFormosa" data-widget-id="558719106267217920">Seguinos en twitter!!</a>
+	                <a height="350" class="twitter-timeline"  href="https://twitter.com/hashtag/PyDayFormosa" data-widget-id="558719106267217920">Seguinos en twitter!!</a>
 	                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                 </div>                
                 
@@ -190,15 +190,18 @@ Python.</p>
             <div class="row">
             <p>Interesados enviar un mail a info@forsol.org.ar</p>
             <h3>Sponsors</h3>
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-2 portfolio-item" >
 						<a href="http://eatnea.org" target="_blank"><img class="img-responsive" src="img/sponsors/eat.jpg" alt="" width="130px"></a>
                 </div>
-                <div class="col-sm-4 portfolio-item">
-						<a href="https://www.42mate.com/" target="_blank"><img class="img-responsive" src="img/sponsors/42mate.png" alt="" width="200px"></a>
+                <div class="col-sm-2 portfolio-item">
+						<a href="https://www.42mate.com/" target="_blank"><img class="img-responsive" src="img/sponsors/42mate.png" alt="" width="3000px"></a>
                 </div>
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-2 portfolio-item">
 						<a href="https://www.medinasegurosfsa.com.ar/" target="_blank"><img class="img-responsive" src="img/sponsors/medina.png" alt="" width="110px"></a>
-                </div>                
+                </div>
+                <div class="col-sm-2 portfolio-item">
+						<a href="http://tintes-religiosos.com.ar/" target="_blank"><img class="img-responsive" src="img/sponsors/tintes_religiosos.png" alt="" width="200px"></a>
+                </div>                                  
                 <div class="col-sm-4 portfolio-item">						
 						<h3 align="center">Tu logo aqui ->   :)</h3>
                 </div>                
