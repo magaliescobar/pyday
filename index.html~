@@ -49,7 +49,6 @@
                 </button>
                 <a class="navbar-brand" href="#page-top">PyDay Formosa</a>
             </div>
-
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <img width="60px" src="img/python.png" alt="">
@@ -135,6 +134,16 @@
 						manera el conocimiento que obtuve libremente de la comunidad de
 						Python.</p>
                 </div>
+                
+                  					<div class="col-sm-4 portfolio-item" align="center">
+	  					<h3 align="center">Turismo Accesible con Django</h3>
+	  					<p align="center">Ariel Montenegro</p>
+	  					<img src="img/ariel.png" alt="" class="img-circle" width="200px">	  					
+	  					<p align="justify">Programador con experiencia en el desarrollo de sistemas web,
+	  					llevando adelante el proyecto ceibox.com y miembro fundador de Forsol 
+	  					(Formosa Software Libre).   
+	  					</p>
+                </div>  
               
   					<div class="col-sm-4 portfolio-item" align="center">
 	  					<h3 align="center">Pilas Engine - Aprende a programar jugando</h3>
@@ -143,7 +152,11 @@
 	  					<p align="justify">Programador de Python con experiencia en el desarrollo de juegos con Pilas Engine,
 	  					aprendiz tiempo completo y miembro fundador de Forsol (Formosa Software Libre).   
 	  					</p>
-                </div>                
+                </div>
+
+                 
+                
+                                
                <div class="col-sm-4 portfolio-item" align="center">
   					<h3 align="center">Tu charla aqui ->   :)</h3>
                 </div>
